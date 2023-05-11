@@ -1,0 +1,30 @@
+C:\D_drive\Centennial College\Sem2\Comp123\Comp123_Example\Comp123_Example_001\Comp123_Example_001\bin\Debug\net6.0\Comp123_Example_001.exe
+C:\D_drive\Centennial College\Sem2\Comp123\Comp123_Example\Comp123_Example_001\Comp123_Example_001\bin\Debug\net6.0\Comp123_Example_001.deps.json
+C:\D_drive\Centennial College\Sem2\Comp123\Comp123_Example\Comp123_Example_001\Comp123_Example_001\bin\Debug\net6.0\Comp123_Example_001.runtimeconfig.json
+C:\D_drive\Centennial College\Sem2\Comp123\Comp123_Example\Comp123_Example_001\Comp123_Example_001\bin\Debug\net6.0\Comp123_Example_001.dll
+C:\D_drive\Centennial College\Sem2\Comp123\Comp123_Example\Comp123_Example_001\Comp123_Example_001\bin\Debug\net6.0\Comp123_Example_001.pdb
+C:\D_drive\Centennial College\Sem2\Comp123\Comp123_Example\Comp123_Example_001\Comp123_Example_001\obj\Debug\net6.0\Comp123_Example_001.csproj.AssemblyReference.cache
+C:\D_drive\Centennial College\Sem2\Comp123\Comp123_Example\Comp123_Example_001\Comp123_Example_001\obj\Debug\net6.0\Comp123_Example_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\D_drive\Centennial College\Sem2\Comp123\Comp123_Example\Comp123_Example_001\Comp123_Example_001\obj\Debug\net6.0\Comp123_Example_001.AssemblyInfoInputs.cache
+C:\D_drive\Centennial College\Sem2\Comp123\Comp123_Example\Comp123_Example_001\Comp123_Example_001\obj\Debug\net6.0\Comp123_Example_001.AssemblyInfo.cs
+C:\D_drive\Centennial College\Sem2\Comp123\Comp123_Example\Comp123_Example_001\Comp123_Example_001\obj\Debug\net6.0\Comp123_Example_001.csproj.CoreCompileInputs.cache
+C:\D_drive\Centennial College\Sem2\Comp123\Comp123_Example\Comp123_Example_001\Comp123_Example_001\obj\Debug\net6.0\Comp123_Example_001.dll
+C:\D_drive\Centennial College\Sem2\Comp123\Comp123_Example\Comp123_Example_001\Comp123_Example_001\obj\Debug\net6.0\refint\Comp123_Example_001.dll
+C:\D_drive\Centennial College\Sem2\Comp123\Comp123_Example\Comp123_Example_001\Comp123_Example_001\obj\Debug\net6.0\Comp123_Example_001.pdb
+C:\D_drive\Centennial College\Sem2\Comp123\Comp123_Example\Comp123_Example_001\Comp123_Example_001\obj\Debug\net6.0\Comp123_Example_001.genruntimeconfig.cache
+C:\D_drive\Centennial College\Sem2\Comp123\Comp123_Example\Comp123_Example_001\Comp123_Example_001\obj\Debug\net6.0\ref\Comp123_Example_001.dll
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_1\Comp123_Example_001\Comp123_Example_001\bin\Debug\net6.0\Comp123_Example_001.exe
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_1\Comp123_Example_001\Comp123_Example_001\bin\Debug\net6.0\Comp123_Example_001.deps.json
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_1\Comp123_Example_001\Comp123_Example_001\bin\Debug\net6.0\Comp123_Example_001.runtimeconfig.json
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_1\Comp123_Example_001\Comp123_Example_001\bin\Debug\net6.0\Comp123_Example_001.dll
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_1\Comp123_Example_001\Comp123_Example_001\bin\Debug\net6.0\Comp123_Example_001.pdb
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_1\Comp123_Example_001\Comp123_Example_001\obj\Debug\net6.0\Comp123_Example_001.csproj.AssemblyReference.cache
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_1\Comp123_Example_001\Comp123_Example_001\obj\Debug\net6.0\Comp123_Example_001.GeneratedMSBuildEditorConfig.editorconfig
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_1\Comp123_Example_001\Comp123_Example_001\obj\Debug\net6.0\Comp123_Example_001.AssemblyInfoInputs.cache
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_1\Comp123_Example_001\Comp123_Example_001\obj\Debug\net6.0\Comp123_Example_001.AssemblyInfo.cs
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_1\Comp123_Example_001\Comp123_Example_001\obj\Debug\net6.0\Comp123_Example_001.csproj.CoreCompileInputs.cache
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_1\Comp123_Example_001\Comp123_Example_001\obj\Debug\net6.0\Comp123_Example_001.dll
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_1\Comp123_Example_001\Comp123_Example_001\obj\Debug\net6.0\refint\Comp123_Example_001.dll
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_1\Comp123_Example_001\Comp123_Example_001\obj\Debug\net6.0\Comp123_Example_001.pdb
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_1\Comp123_Example_001\Comp123_Example_001\obj\Debug\net6.0\Comp123_Example_001.genruntimeconfig.cache
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_1\Comp123_Example_001\Comp123_Example_001\obj\Debug\net6.0\ref\Comp123_Example_001.dll

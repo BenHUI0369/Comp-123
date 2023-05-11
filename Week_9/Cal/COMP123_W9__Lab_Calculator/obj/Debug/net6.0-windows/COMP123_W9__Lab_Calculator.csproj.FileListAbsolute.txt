@@ -1,0 +1,34 @@
+C:\D_drive\Centennial College\Sem2\Comp123\Lab\W9\Lab9\COMP123_W9__Lab_Calculator\bin\Debug\net6.0-windows\COMP123_W9__Lab_Calculator.exe
+C:\D_drive\Centennial College\Sem2\Comp123\Lab\W9\Lab9\COMP123_W9__Lab_Calculator\bin\Debug\net6.0-windows\COMP123_W9__Lab_Calculator.deps.json
+C:\D_drive\Centennial College\Sem2\Comp123\Lab\W9\Lab9\COMP123_W9__Lab_Calculator\bin\Debug\net6.0-windows\COMP123_W9__Lab_Calculator.runtimeconfig.json
+C:\D_drive\Centennial College\Sem2\Comp123\Lab\W9\Lab9\COMP123_W9__Lab_Calculator\bin\Debug\net6.0-windows\COMP123_W9__Lab_Calculator.dll
+C:\D_drive\Centennial College\Sem2\Comp123\Lab\W9\Lab9\COMP123_W9__Lab_Calculator\bin\Debug\net6.0-windows\COMP123_W9__Lab_Calculator.pdb
+C:\D_drive\Centennial College\Sem2\Comp123\Lab\W9\Lab9\COMP123_W9__Lab_Calculator\obj\Debug\net6.0-windows\COMP123_W9__Lab_Calculator.csproj.AssemblyReference.cache
+C:\D_drive\Centennial College\Sem2\Comp123\Lab\W9\Lab9\COMP123_W9__Lab_Calculator\obj\Debug\net6.0-windows\COMP123_W9__Lab_Calculator.Form1.resources
+C:\D_drive\Centennial College\Sem2\Comp123\Lab\W9\Lab9\COMP123_W9__Lab_Calculator\obj\Debug\net6.0-windows\COMP123_W9__Lab_Calculator.csproj.GenerateResource.cache
+C:\D_drive\Centennial College\Sem2\Comp123\Lab\W9\Lab9\COMP123_W9__Lab_Calculator\obj\Debug\net6.0-windows\COMP123_W9__Lab_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\D_drive\Centennial College\Sem2\Comp123\Lab\W9\Lab9\COMP123_W9__Lab_Calculator\obj\Debug\net6.0-windows\COMP123_W9__Lab_Calculator.AssemblyInfoInputs.cache
+C:\D_drive\Centennial College\Sem2\Comp123\Lab\W9\Lab9\COMP123_W9__Lab_Calculator\obj\Debug\net6.0-windows\COMP123_W9__Lab_Calculator.AssemblyInfo.cs
+C:\D_drive\Centennial College\Sem2\Comp123\Lab\W9\Lab9\COMP123_W9__Lab_Calculator\obj\Debug\net6.0-windows\COMP123_W9__Lab_Calculator.csproj.CoreCompileInputs.cache
+C:\D_drive\Centennial College\Sem2\Comp123\Lab\W9\Lab9\COMP123_W9__Lab_Calculator\obj\Debug\net6.0-windows\COMP123_W9__Lab_Calculator.dll
+C:\D_drive\Centennial College\Sem2\Comp123\Lab\W9\Lab9\COMP123_W9__Lab_Calculator\obj\Debug\net6.0-windows\refint\COMP123_W9__Lab_Calculator.dll
+C:\D_drive\Centennial College\Sem2\Comp123\Lab\W9\Lab9\COMP123_W9__Lab_Calculator\obj\Debug\net6.0-windows\COMP123_W9__Lab_Calculator.pdb
+C:\D_drive\Centennial College\Sem2\Comp123\Lab\W9\Lab9\COMP123_W9__Lab_Calculator\obj\Debug\net6.0-windows\COMP123_W9__Lab_Calculator.genruntimeconfig.cache
+C:\D_drive\Centennial College\Sem2\Comp123\Lab\W9\Lab9\COMP123_W9__Lab_Calculator\obj\Debug\net6.0-windows\ref\COMP123_W9__Lab_Calculator.dll
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_9\Cal\COMP123_W9__Lab_Calculator\bin\Debug\net6.0-windows\COMP123_W9__Lab_Calculator.exe
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_9\Cal\COMP123_W9__Lab_Calculator\bin\Debug\net6.0-windows\COMP123_W9__Lab_Calculator.deps.json
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_9\Cal\COMP123_W9__Lab_Calculator\bin\Debug\net6.0-windows\COMP123_W9__Lab_Calculator.runtimeconfig.json
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_9\Cal\COMP123_W9__Lab_Calculator\bin\Debug\net6.0-windows\COMP123_W9__Lab_Calculator.dll
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_9\Cal\COMP123_W9__Lab_Calculator\bin\Debug\net6.0-windows\COMP123_W9__Lab_Calculator.pdb
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_9\Cal\COMP123_W9__Lab_Calculator\obj\Debug\net6.0-windows\COMP123_W9__Lab_Calculator.csproj.AssemblyReference.cache
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_9\Cal\COMP123_W9__Lab_Calculator\obj\Debug\net6.0-windows\COMP123_W9__Lab_Calculator.Form1.resources
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_9\Cal\COMP123_W9__Lab_Calculator\obj\Debug\net6.0-windows\COMP123_W9__Lab_Calculator.csproj.GenerateResource.cache
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_9\Cal\COMP123_W9__Lab_Calculator\obj\Debug\net6.0-windows\COMP123_W9__Lab_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_9\Cal\COMP123_W9__Lab_Calculator\obj\Debug\net6.0-windows\COMP123_W9__Lab_Calculator.AssemblyInfoInputs.cache
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_9\Cal\COMP123_W9__Lab_Calculator\obj\Debug\net6.0-windows\COMP123_W9__Lab_Calculator.AssemblyInfo.cs
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_9\Cal\COMP123_W9__Lab_Calculator\obj\Debug\net6.0-windows\COMP123_W9__Lab_Calculator.csproj.CoreCompileInputs.cache
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_9\Cal\COMP123_W9__Lab_Calculator\obj\Debug\net6.0-windows\COMP123_W9__Lab_Calculator.dll
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_9\Cal\COMP123_W9__Lab_Calculator\obj\Debug\net6.0-windows\refint\COMP123_W9__Lab_Calculator.dll
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_9\Cal\COMP123_W9__Lab_Calculator\obj\Debug\net6.0-windows\COMP123_W9__Lab_Calculator.pdb
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_9\Cal\COMP123_W9__Lab_Calculator\obj\Debug\net6.0-windows\COMP123_W9__Lab_Calculator.genruntimeconfig.cache
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_9\Cal\COMP123_W9__Lab_Calculator\obj\Debug\net6.0-windows\ref\COMP123_W9__Lab_Calculator.dll

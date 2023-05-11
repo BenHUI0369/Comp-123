@@ -1,0 +1,30 @@
+C:\D_drive\Centennial College\Sem2\Comp123\Lab\W8_MidTerm\Account_Pt2\COMP123_W8_Account_2\bin\Debug\net6.0\COMP123_W8_Account_2.exe
+C:\D_drive\Centennial College\Sem2\Comp123\Lab\W8_MidTerm\Account_Pt2\COMP123_W8_Account_2\bin\Debug\net6.0\COMP123_W8_Account_2.deps.json
+C:\D_drive\Centennial College\Sem2\Comp123\Lab\W8_MidTerm\Account_Pt2\COMP123_W8_Account_2\bin\Debug\net6.0\COMP123_W8_Account_2.runtimeconfig.json
+C:\D_drive\Centennial College\Sem2\Comp123\Lab\W8_MidTerm\Account_Pt2\COMP123_W8_Account_2\bin\Debug\net6.0\COMP123_W8_Account_2.dll
+C:\D_drive\Centennial College\Sem2\Comp123\Lab\W8_MidTerm\Account_Pt2\COMP123_W8_Account_2\bin\Debug\net6.0\COMP123_W8_Account_2.pdb
+C:\D_drive\Centennial College\Sem2\Comp123\Lab\W8_MidTerm\Account_Pt2\COMP123_W8_Account_2\obj\Debug\net6.0\COMP123_W8_Account_2.csproj.AssemblyReference.cache
+C:\D_drive\Centennial College\Sem2\Comp123\Lab\W8_MidTerm\Account_Pt2\COMP123_W8_Account_2\obj\Debug\net6.0\COMP123_W8_Account_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\D_drive\Centennial College\Sem2\Comp123\Lab\W8_MidTerm\Account_Pt2\COMP123_W8_Account_2\obj\Debug\net6.0\COMP123_W8_Account_2.AssemblyInfoInputs.cache
+C:\D_drive\Centennial College\Sem2\Comp123\Lab\W8_MidTerm\Account_Pt2\COMP123_W8_Account_2\obj\Debug\net6.0\COMP123_W8_Account_2.AssemblyInfo.cs
+C:\D_drive\Centennial College\Sem2\Comp123\Lab\W8_MidTerm\Account_Pt2\COMP123_W8_Account_2\obj\Debug\net6.0\COMP123_W8_Account_2.csproj.CoreCompileInputs.cache
+C:\D_drive\Centennial College\Sem2\Comp123\Lab\W8_MidTerm\Account_Pt2\COMP123_W8_Account_2\obj\Debug\net6.0\COMP123_W8_Account_2.dll
+C:\D_drive\Centennial College\Sem2\Comp123\Lab\W8_MidTerm\Account_Pt2\COMP123_W8_Account_2\obj\Debug\net6.0\refint\COMP123_W8_Account_2.dll
+C:\D_drive\Centennial College\Sem2\Comp123\Lab\W8_MidTerm\Account_Pt2\COMP123_W8_Account_2\obj\Debug\net6.0\COMP123_W8_Account_2.pdb
+C:\D_drive\Centennial College\Sem2\Comp123\Lab\W8_MidTerm\Account_Pt2\COMP123_W8_Account_2\obj\Debug\net6.0\COMP123_W8_Account_2.genruntimeconfig.cache
+C:\D_drive\Centennial College\Sem2\Comp123\Lab\W8_MidTerm\Account_Pt2\COMP123_W8_Account_2\obj\Debug\net6.0\ref\COMP123_W8_Account_2.dll
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_7\Account_Pt2\COMP123_W8_Account_2\obj\Debug\net6.0\COMP123_W8_Account_2.csproj.AssemblyReference.cache
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_7\Account_Pt2\COMP123_W8_Account_2\obj\Debug\net6.0\COMP123_W8_Account_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_7\Account_Pt2\COMP123_W8_Account_2\obj\Debug\net6.0\COMP123_W8_Account_2.AssemblyInfoInputs.cache
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_7\Account_Pt2\COMP123_W8_Account_2\obj\Debug\net6.0\COMP123_W8_Account_2.AssemblyInfo.cs
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_7\Account_Pt2\COMP123_W8_Account_2\obj\Debug\net6.0\COMP123_W8_Account_2.csproj.CoreCompileInputs.cache
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_7\Account_Pt2\COMP123_W8_Account_2\obj\Debug\net6.0\COMP123_W8_Account_2.dll
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_7\Account_Pt2\COMP123_W8_Account_2\obj\Debug\net6.0\refint\COMP123_W8_Account_2.dll
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_7\Account_Pt2\COMP123_W8_Account_2\obj\Debug\net6.0\COMP123_W8_Account_2.pdb
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_7\Account_Pt2\COMP123_W8_Account_2\bin\Debug\net6.0\COMP123_W8_Account_2.exe
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_7\Account_Pt2\COMP123_W8_Account_2\bin\Debug\net6.0\COMP123_W8_Account_2.deps.json
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_7\Account_Pt2\COMP123_W8_Account_2\bin\Debug\net6.0\COMP123_W8_Account_2.runtimeconfig.json
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_7\Account_Pt2\COMP123_W8_Account_2\bin\Debug\net6.0\COMP123_W8_Account_2.dll
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_7\Account_Pt2\COMP123_W8_Account_2\bin\Debug\net6.0\COMP123_W8_Account_2.pdb
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_7\Account_Pt2\COMP123_W8_Account_2\obj\Debug\net6.0\COMP123_W8_Account_2.genruntimeconfig.cache
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_7\Account_Pt2\COMP123_W8_Account_2\obj\Debug\net6.0\ref\COMP123_W8_Account_2.dll

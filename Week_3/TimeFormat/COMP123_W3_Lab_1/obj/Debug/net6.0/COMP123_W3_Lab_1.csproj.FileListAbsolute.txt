@@ -1,0 +1,15 @@
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_3\TimeFormat\COMP123_W3_Lab_1\bin\Debug\net6.0\COMP123_W3_Lab_1.exe
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_3\TimeFormat\COMP123_W3_Lab_1\bin\Debug\net6.0\COMP123_W3_Lab_1.deps.json
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_3\TimeFormat\COMP123_W3_Lab_1\bin\Debug\net6.0\COMP123_W3_Lab_1.runtimeconfig.json
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_3\TimeFormat\COMP123_W3_Lab_1\bin\Debug\net6.0\COMP123_W3_Lab_1.dll
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_3\TimeFormat\COMP123_W3_Lab_1\bin\Debug\net6.0\COMP123_W3_Lab_1.pdb
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_3\TimeFormat\COMP123_W3_Lab_1\obj\Debug\net6.0\COMP123_W3_Lab_1.csproj.AssemblyReference.cache
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_3\TimeFormat\COMP123_W3_Lab_1\obj\Debug\net6.0\COMP123_W3_Lab_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_3\TimeFormat\COMP123_W3_Lab_1\obj\Debug\net6.0\COMP123_W3_Lab_1.AssemblyInfoInputs.cache
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_3\TimeFormat\COMP123_W3_Lab_1\obj\Debug\net6.0\COMP123_W3_Lab_1.AssemblyInfo.cs
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_3\TimeFormat\COMP123_W3_Lab_1\obj\Debug\net6.0\COMP123_W3_Lab_1.csproj.CoreCompileInputs.cache
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_3\TimeFormat\COMP123_W3_Lab_1\obj\Debug\net6.0\COMP123_W3_Lab_1.dll
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_3\TimeFormat\COMP123_W3_Lab_1\obj\Debug\net6.0\refint\COMP123_W3_Lab_1.dll
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_3\TimeFormat\COMP123_W3_Lab_1\obj\Debug\net6.0\COMP123_W3_Lab_1.pdb
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_3\TimeFormat\COMP123_W3_Lab_1\obj\Debug\net6.0\COMP123_W3_Lab_1.genruntimeconfig.cache
+D:\CentennialCollege\Sem2\comp123\Weekly_Lab\Week_3\TimeFormat\COMP123_W3_Lab_1\obj\Debug\net6.0\ref\COMP123_W3_Lab_1.dll
